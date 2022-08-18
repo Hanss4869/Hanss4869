@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate with github community
-- 📫 You can reach me through email(nurulhanamuslih@gmail.com) or twitter(_Hans999_)
+- 📫 You can reach me through email(nurulhanamuslih@gmail.com) or twitter(_Hans999_@Hana999)
 
 <!---
 Hanss4869/Hanss4869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
