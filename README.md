@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding👩‍💻
 
 ![TypingGIF](https://user-images.githubusercontent.com/107233338/189560737-819cbde6-4b90-4c7b-89d1-8a4795eded2c.gif)
-![TypingLaptopGIF](https://user-images.githubusercontent.com/107233338/189559997-843bd712-d925-4973-b31e-705fe6106c83.gif)
 
 - 🌱 I’m currently learning html, css, javascript & python.
 - 📑 I'm still parcticing to use git ಥ_ಥ (git is hard but i am ok)
