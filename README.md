@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanss4869 ╰(*°▽°*)╯
+- 👋 Hi, I’m @Hanss4869 ╰(*°▽°*)╯. You can call me Hana
 - 👀 I’m interested in coding👩‍💻
 
 ![TypingLaptopGIF](https://user-images.githubusercontent.com/107233338/189559997-843bd712-d925-4973-b31e-705fe6106c83.gif)
