@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hanss4869
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate with github community
 - 📫 You can reach me through email(nurulhanamuslih@gmail.com) or twitter(_Hans999_@Hana999)
