@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Hanss4869 ╰(*°▽°*)╯
 - 👀 I’m interested in coding👩‍💻
+
 ![TypingLaptopGIF](https://user-images.githubusercontent.com/107233338/189559997-843bd712-d925-4973-b31e-705fe6106c83.gif)
 
 - 🌱 I’m currently learning html, css, javascript & python.
 - 📑 I'm still parcticing to use git ಥ_ಥ (git is hard but i am ok)
+
 ![DwayneJohnsonGIF](https://user-images.githubusercontent.com/107233338/189560193-ae892c6f-bba7-4bbb-9568-220055f501af.gif)
 
 
