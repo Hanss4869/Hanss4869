@@ -10,7 +10,7 @@
 
 
 - 💞️ I’m looking to collaborate with github community
-- 📫 You can reach me through twitter(_Hans999_@Hana999)
+- 📫 You can reach me through twitter(_ __Hans999__ _@Hana999)
 - 😊 Have a nice day!
 
 <!---
