@@ -1,10 +1,11 @@
-👋 Hi there😊
+👋 Hi there 😊
 
-I’m @Hanss4869 ╰(*°▽°*)╯. You can call me Hana. I’m interested in coding👩‍💻. I’m currently learning html, css, javascript, python & ui/ux design. I'm still parcticing to use git ಥ_ಥ (crying..). Git is hard but i am surviving👌.
+I’m Hana ╰(*°▽°*)╯. I’m interested newbie in coding👩‍💻. I'm graduated in science stream in 2018 but I’m currently learning html, css, javascript, python & ui/ux design. I'm still practicing to use git ಥ_ಥ (crying..). Git is hard but i am surviving👌. 
 
 What i am looking for:
-- I’m looking to collaborate with github community
-- You can reach me at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_Hans999_.svg?style=social&label=Follow%20%40_Hans999_)](https://twitter.com/_Hans999_)
+- I’m looking to collaborate with github community. 
+- You can reach me at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_Hans999_.svg?style=social&label=Follow%20%40_Hans999_)](https://twitter.com/_Hans999_)  
+(I'm quite active there🙈)
 
 Have a nice day!
 
