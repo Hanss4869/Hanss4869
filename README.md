@@ -4,7 +4,7 @@ I’m @Hanss4869 ╰(*°▽°*)╯. You can call me Hana. I’m interested in co
 
 What i am looking for:
 - I’m looking to collaborate with github community
-- You can reach me through Hana999😎💻 (@_Hans999_) / [Twitter] (https://twitter.com/_Hans999_)
+- You can reach me at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_Hans999_.svg?style=social&label=Follow%20%40_Hans999_)](https://twitter.com/_Hans999_)
 
 Have a nice day!
 
