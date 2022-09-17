@@ -1,6 +1,6 @@
 👋 Hi there 😊
 
-I’m Hana ╰(*°▽°*)╯. I’m interested newbie in coding👩‍💻. I'm graduated in science stream in 2018, worked in clinical-retail industry for 3 years, had experience with volunteerism and placed 2nd for 3-minutes-presentation on my thesis degree. I’m currently learning html, css, javascript (bootstrap, jquery), python & ui/ux (figma). 
+I’m Hana ╰(*°▽°*)╯. I’m interested newbie in coding👩‍💻. I'm graduated in science stream in 2018, worked in clinical-retail industry for 4 years, had experience with volunteerism and placed 2nd for 3-minutes-presentation on my thesis degree. I’m currently learning html, css, javascript (bootstrap, jquery), python & ui/ux (figma). 
 
 What i am looking for:
 - I’m looking to collaborate with the community. 
