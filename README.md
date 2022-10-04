@@ -2,7 +2,7 @@
 
 I’m Hana ╰(*°▽°*)╯. I’m introduced to coding since February 2022💻 and resume on June. I’m currently learning html, css (bootstrap), javascript (vue.js, node js, asynchronous js, jquery), python, ui/ux (specifically figma), kotlin📱, back-end and SQL.👩‍💻  I'm trying to learn a lot of thing in order to grasp my preferrences (searching for my passion). And it means i need to try lots of things in a little bit details to have a clearer picture. Wish me luck!🥷
 
-A Snippet on my Bio: I'm graduated in science stream in 2018, worked in clinical-retail industry👓 for 4 years (i sell my knowledge, service and product), had experience with volunteerism and placed 2nd for 3-minutes-presentation on my thesis degree. March-May 2022, (3 months which i rests from coding) i enrolled in mentorship trading class🚀 (kinda the wall street movie(buy n sell stocks))📈 and i'm a proud lifestyle trader.
+A Snippet on my Bio: I'm graduated in science stream in 2018, worked in clinical-retail industry👓 for 4 years (i sell my knowledge, service and product) and placed 2nd for 3-minutes-presentation on my thesis degree(i will refer you to my colleague in case you might not believe it). March-May 2022, (3 months which i rests from coding) i enrolled in mentorship trading class🚀 (learn to buy n sell stocks in bursa malaysia (but i don't know to trade global/nasdaq))📈 and i'm a proud lifestyle trader.
 
 
 What i am looking for:
