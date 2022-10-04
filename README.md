@@ -6,7 +6,7 @@ A Snippet on my Bio: I'm graduated in science stream in 2018, worked in clinical
 
 
 What i am looking for:
-- I’m looking to collaborate with the community. 
+- I’m looking to collaborate with github community. 
 - I'm still practicing to use git correctly (ಥ_ಥ) (crying..). Git is hard but i am surviving👌. 
 - You can reach me at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_Hans999_.svg?style=social&label=Follow%20%40_Hans999_)](https://twitter.com/_Hans999_)  
 (I'm quite active chirping!🙈)
