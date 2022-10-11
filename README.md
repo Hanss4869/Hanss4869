@@ -1,6 +1,6 @@
 👋 Hi there 😊
 
-I’m Hana ╰(*°▽°*)╯. I’m introduced to coding since February 2022💻 and resume on June. I’m currently learning html, css (bootstrap), javascript (vue.js, node js, asynchronous js, jquery), python, ui/ux (specifically figma), kotlin📱, back-end, SQL and linux.👩‍💻  I'm trying to learn a lot of thing in order to grasp my preferrences to focus on. And it means i need to try lots of things in a little bit details to have a clearer picture. Wish me luck!🥷
+I’m Hana ╰(*°▽°*)╯. I’m introduced to coding since February 2022💻 and resume on June. I’m currently learning html, css (bootstrap), javascript (vue.js, node js, asynchronous js, jquery), python, ui/ux (figma), kotlin📱, back-end, SQL, basic devops intro and linux.👩‍💻  I'm trying to learn a lot of thing in order to grasp my preferrences to focus on. And it means i need to try lots of things in a little bit details to have a clearer picture. Wish me luck!🥷
 
 A Snippet on my Bio: 
 - I'm graduated in science stream in 2018, worked in clinical-retail industry👓 for 4 years (i sell my knowledge, service and product) and placed 2nd for 3-minutes-presentation/3MT on my thesis degree(basically, 3MT measure the student's ability to deliver the idea of their study to majority of people in lament term while the examiner/judges is a professional presenter). 
@@ -10,6 +10,7 @@ A Snippet on my Bio:
 What i am looking for:
 - I’m looking to collaborate with github community. 
 - I'm still practicing to use git correctly (ಥ_ಥ) (crying..). Git is hard but i am surviving👌. 
+- Still struggling with installing ubuntu... (´。＿。｀)
 - You can reach me at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_Hans999_.svg?style=social&label=Follow%20%40_Hans999_)](https://twitter.com/_Hans999_)  
 (I'm quite active chirping!🙈)
 
