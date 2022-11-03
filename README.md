@@ -4,7 +4,6 @@ I’m Hana ╰(*°▽°*)╯. I’m introduced to coding since February 2022💻
 
 A Snippet on my Bio: 
 - I'm dedicated and ambitious self-taught dev/coder? I like to connect with people. Here I attached my notion website to get to know me.🙌
-https://www.notion.so/Nurul-Hana-Mohd-Muslih-b19300f27be24f0ab706a75b36215d5a
 
 What i am looking for:
 - I’m looking to collaborate with github community. 
